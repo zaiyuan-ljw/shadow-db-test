@@ -9,13 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>jmh-base</module>
-        <module>jmh-jdbc</module>
-        <module>jmh-shardingsphere3</module>
-        <module>jmh-shardingsphere5</module>
-        <module>jmh-shardingsphere4</module>
-        <module>jmh-mysqlx</module>
-    
-        <module>jmh-dangling</module>
         <module>jmh-takin</module>
         <module>jmh-takin-web</module>
     </modules>
